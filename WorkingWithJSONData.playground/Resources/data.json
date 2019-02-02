@@ -1,0 +1,49 @@
+{
+    "message": "This is information of some people.",
+    "status": true,
+    "people": [
+        {
+            "name": "Dara",
+            "age": 18,
+            "phones": [
+                {
+                    "type": "Smart",
+                    "phone": "010787878"
+                },
+                {
+                    "type": "Cellcard",
+                    "phone": "012378787"
+                }
+            ]
+        },
+        {
+            "name": "Sok",
+            "age": 22,
+            "phones": [
+                {
+                    "type": "Smart",
+                    "phone": "010787878"
+                },
+                {
+                    "type": "Cellcard",
+                    "phone": "012378787"
+                }
+            ]
+        },
+        {
+            "name": "Sao",
+            "age": 25,
+            "phones": [
+                {
+                    "type": "Smart",
+                    "phone": "010787878"
+                },
+                {
+                    "type": "Cellcard",
+                    "phone": "012378787"
+                }
+            ]
+        }
+    ],
+    "locations": ["Phnom Penh", "Kandal", "Kompong Som", "Siem Reap"]
+}
